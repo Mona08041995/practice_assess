@@ -1,3 +1,3 @@
-class PostsController < ApplicationControllerload_and_authorize_resource
+class PostsController < ApplicationController
 	load_and_authorize_resource
 end
