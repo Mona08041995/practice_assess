@@ -27,5 +27,5 @@ test:
 
 production:
   <<: *default
-  database: db/practice_assess.production
+  database: db/practice_assess_production
 
